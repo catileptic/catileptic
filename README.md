@@ -4,7 +4,9 @@
 
 🏠 I'm based in Bucharest, Romania
 
-🥰 I do **community building**, security support and training.
+🌱 I do **open-source development**, **security** training and consultancy.
+
+🥰 I love bringing folks together. 
 
 🎒 **Now**, I'm in the process of learning **DevOps** and **Rust**.
 
