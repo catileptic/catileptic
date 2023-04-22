@@ -8,9 +8,9 @@
 
 🥰 I love bringing folks together. 
 
-<br />
+👀 You can find me on <a rel="me" href="https://chaos.social/@catileptic">Mastodon</a>.
 
-<a rel="me" href="https://chaos.social/@catileptic"></a>
+<br />
 
 ---
 
