@@ -1,4 +1,4 @@
-## Greetings! I'm Alecs
+## Greetings!
 
 💚 My pronouns are: **she/they**
 
